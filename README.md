@@ -8,4 +8,4 @@
 - ⚡ Fun fact: Harry Potter fan forever :)
 
 <img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuslanaLogosha&show_icons=true&theme=cobalt)
-"/>
+">
