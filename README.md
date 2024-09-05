@@ -1,8 +1,5 @@
-### Hi there, good people 👋
+### Hi 👋
 
-
-- 🌱  I’m currently learning JavaScript & React & Node
-- 🤓  I’m eager to learn from more experienced programmers and open to structured criticism 
 - 💬  You can ask me how to start learning JS and not give up in this 🤗 
 - 📫  How to reach me: ruslanalogosha@gmail.com, [LinkedIn](https://www.linkedin.com/in/ruslana-logosha-674b9241/)
 
